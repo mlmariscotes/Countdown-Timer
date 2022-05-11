@@ -1,1 +1,1 @@
-# Countdown-timer
+# JavaScript Project
